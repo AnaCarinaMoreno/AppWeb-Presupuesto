@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  background-image: url(./assets/images/fondo.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.6), (rgba(0, 0, 0, 0.6))) ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.stailfonts{
+  font-family: 'Montserrat', sans-serif;
+  
+}
